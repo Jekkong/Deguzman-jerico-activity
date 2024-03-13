@@ -1,0 +1,65 @@
+
+        h1{
+            color:darkred
+        }
+
+        button{
+            color:black
+        }
+
+        a{
+            color:black
+        }
+
+        #userlabel{
+            font-size: 30px;
+            background-color: blue;
+        }
+
+        #passlabel{
+            font-size: 30px;
+            background-color: blue;
+        }
+        
+        #class{
+            font-size: 30px;a
+            background-color: crimson;
+        }
+        .text-design {
+            color:green
+        }
+        <style>  h1{
+            color:darkred;
+         }
+
+         label{
+            color:black;
+         }
+
+         a{
+            color:black;
+         }
+
+         #userlabel{
+            font-size: 30px;
+            background-color: blue;
+         }
+
+         #namelaber{
+            font-size: 30px;
+            background-color: blue; 
+         }
+
+         #genderlabel{
+            font-size: 30px;
+            background-color: blue
+         }
+         #passlabel{
+            font-size: 30px;
+            background-color: blue;
+         }         
+
+         .text-design{
+            color:green
+         } 
+        <style>  
